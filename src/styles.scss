@@ -1,1 +1,159 @@
-/* You can add global styles to this file, and also import other style files */
+.tblheader {
+	color: #fff;
+	background-color: #00a0f0;	
+}
+
+.pageTitle{
+    font-size:30px;font-weight: 900;
+}
+
+// .card-header {
+//     background-color: #e4e7ea;
+//     padding: .75rem 1.25rem;
+//     margin-bottom: 0;
+//     background-color: #f8f9fa;
+//     border-bottom: 1px solid #c8ced3;
+// }
+
+h3 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  
+  .card {
+    margin-bottom: 3%;
+  }
+  
+  /* .card:hover {
+    background-color: #007bff;
+  } */
+
+  .fadedYellowBg{
+    background-color:#c69500;
+    color: white;
+  }
+
+  .fadedRedBg{
+    background-color:#f5302e;
+    color: white;
+  }
+
+  .fadedGreenBg{
+    background-color: mediumseagreen;
+    color: white;
+  }
+
+  .fadedLawngreenBg{
+    background-color: #187da0;
+    color: white;
+  }
+/*   
+  .card:hover a {
+    color: white;
+  }
+  
+  .card a:hover {
+    color: white;
+    text-decoration: none;
+  } */
+
+  .onhover{
+    cursor: pointer;
+    color: #00a0f0;
+  }
+  
+  .modal {
+    display: block;
+  }
+  .table {
+    margin-bottom: 0px;
+  }
+  .table td.fit, 
+  .table th.fit {
+      white-space: nowrap;
+      width: 1%;
+  }
+  .memberHeaderStyle{
+    color: #000000;
+  }
+  .modalHeader {
+    background: #d9dee8;
+      color: #000000;
+  }
+  
+  .tblheader {
+    /* color: #fff; */
+    background-color: #00a0f0 !important;	
+  }
+  
+  .card .card-header-info:not(.card-header-icon):not(.card-header-text) {
+    background: #00b4f5 !important;
+    /* color: white; */
+  }
+  
+  .card-category-black {
+    color: black !important;
+  }
+  
+  .todoStatus {
+    background: grey;
+  }
+  .inProgressStatus {
+    background: yellow;
+  }
+  .inProgressDelayedStatus {
+    background: red;
+  }
+  .completedDelayedStatus {
+    background: lawngreen;
+  }
+  .completedStatus {
+    background: green;
+  }
+  .greenTxt{
+    color: #228b22;
+  }
+  .expandedBg {
+    background:rgb(0,0,0,0.1);
+  }
+  .modal {
+    background: rgb(0,0,0, 0.7);
+  }
+  
+  .coloredStatus {
+    display: inline-block;
+      width: 20px;
+      height: 20px;
+      border: 1px solid black;
+      margin-left: 10px;
+      margin-right: 10px;
+      border-radius: 10px;
+  }
+  
+  .dashboardSummary {
+    margin-right: 0px; 
+      margin-left: 0px; 
+      margin-top: 10px;
+      margin-bottom: -10px;
+  }
+
+  #table thead {
+    color: #fff;
+    background-color: #00a0f0;
+  }
+  
+  #table tbody tr:hover { 
+     background-color: #ccc;
+     cursor: pointer;
+  }
+  
+  .table th, .table td {
+    padding:0.3rem;
+  }
+   
+
+  .maindiv{
+    padding-left: 150px;
+    padding-right: 150px;
+  } 
+  
